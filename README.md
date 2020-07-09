@@ -1,4 +1,4 @@
-### Hi there 👋
+### Be the pull request you want to see in the world
 
 <!--
 **chrisallick/chrisallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
